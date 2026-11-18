@@ -1,0 +1,19 @@
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Credenciales: nunca se suben
+.env
+*.env
+
+# Sesiones locales de adk web
+hogar/.adk/
+
+# Trabajo de la universidad (memoria en LaTeX): solo en local
+Estudio de Google ADK/
+
+# Sistema y empaquetados
+.DS_Store
+*.zip
