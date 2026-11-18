@@ -39,3 +39,7 @@ Con `gemini-3.5-flash-lite`, los 7 escenarios ([escenarios.py](escenarios.py)) a
 - La confirmación de la puerta es una búsqueda de texto: `CONFIRMO` en cualquier parte del mensaje, con cualquier combinación de mayúsculas y minúsculas, la activa. No es una confirmación humana robusta.
 - Las reglas están escritas a mano y solo cubren tres herramientas; el resto está permitido por defecto.
 - El estado de la casa es global y vive en memoria.
+
+## Licencia
+
+[MIT](LICENSE).
